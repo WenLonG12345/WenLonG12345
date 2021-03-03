@@ -5,11 +5,11 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  align="right" width = 200/>
                                                                                               
 🚀&nbsp;&nbsp;&nbsp;**Mobile Application Developer**  from Malaysia. Currently working in 💡 [Qumon Intelligence](https://www.qumonintelligence.com/) 💡. \
-🌱&nbsp;&nbsp;&nbsp;Actively working with Android development with Kotlin. \
-:muscle:&nbsp;&nbsp;&nbsp;Love to absorb any new technology in the market, such as Jetpack Compose, Flutter, etc. \
-🎓&nbsp;&nbsp;&nbsp;Graduated in University Technology Malaysia in Bachelor of Degree in Computer Network and Security.\
-📄&nbsp;&nbsp;&nbsp;Feel free to contact me in Freelancer.com or Upwork.com for freelancing mobile development job. \
-💬&nbsp;&nbsp;&nbsp;Reach out to me for any problem faced in Android development. I'm open to feedback and suggestions!
+🌱&nbsp;&nbsp;&nbsp;Actively working with **Android development** with **Kotlin**. \
+:muscle:&nbsp;&nbsp;&nbsp;Love to absorb any new technology in the market, such as **Jetpack Compose**, **Flutter**, etc. \
+🎓&nbsp;&nbsp;&nbsp;Graduated in **University Technology Malaysia** in **Bachelor of Degree in Computer Network and Security**.\
+📄&nbsp;&nbsp;&nbsp;Feel free to contact me in [**Freelancer**](https://www.freelancer.com/u/skynight1996) or [**Upwork**](https://www.upwork.com/freelancers/~0147258256e4f9731b) for freelancing mobile development job. \
+💬&nbsp;&nbsp;&nbsp;Reach out to me for any problem faced in Android development. **I'm open to feedback and suggestions**!
 
 
 ### 🛠 &nbsp;Tech Stack
