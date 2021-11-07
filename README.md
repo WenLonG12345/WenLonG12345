@@ -8,19 +8,21 @@
 🌱&nbsp;&nbsp;Actively working with **Android development** with **Kotlin**. \
 :muscle:&nbsp;&nbsp;Love to absorb any new technology in the market, such as **Jetpack Compose**, **Flutter**, etc. \
 🎓&nbsp;&nbsp;Graduated in **University Technology Malaysia** in **Bachelor of Degree in Computer Network and Security**.\
-📄&nbsp;&nbsp;Feel free to contact me in [**Freelancer**](https://www.freelancer.com/u/skynight1996) or [**Upwork**](https://www.upwork.com/freelancers/~0147258256e4f9731b) for freelancing mobile development job. \
+📄&nbsp;&nbsp;Feel free to contact me in [**Freelancer**](https://www.freelancer.com/u/skynight1996) / [**Upwork**](https://www.upwork.com/freelancers/~0147258256e4f9731b) / [**Fiverr**](https://www.fiverr.com/teowenlong) for freelancing mobile development job. \
 💬&nbsp;&nbsp;Reach out to me for any problem faced in Android development. **I'm open to feedback and suggestions**!
 
 
 ### 🛠 &nbsp;Tech Stack
 
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
 
 ### ⚡ &nbsp; Major Project
 
 * **Chativo** - Live Chat base support & Engagement software. :iphone: \
 <a href='https://play.google.com/store/apps/details?id=io.chativo.chat&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 200/></a>
+* **Chativo Visitor** - Visitor Companion App built with React Native. :iphone: \
+<a href='https://play.google.com/store/apps/details?id=com.rnvisitorapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 200/></a>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
