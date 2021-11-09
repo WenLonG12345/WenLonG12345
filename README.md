@@ -25,6 +25,7 @@
 <a href='https://play.google.com/store/apps/details?id=com.rnvisitorapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 200/></a>
 
 ### 🔥 &nbsp;Medium Articles 
+  - [React Native — Infinite Scroll Pagination with FlatList](https://skynight1996.medium.com/react-native-infinite-scroll-pagination-with-flatlist-e5fe5db6c1cb)
   - [React Native - Beautiful Horoscope App](https://skynight1996.medium.com/react-native-beautiful-horoscope-app-93243796f998)
   - [React Native - Form Builder using React Hook Form](https://skynight1996.medium.com/react-native-form-builder-using-react-hook-form-c117d0bca4a7)
   - [React Native - Image Slider](https://skynight1996.medium.com/react-native-image-slider-5e92cc5685aa)
