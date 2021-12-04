@@ -1,16 +1,27 @@
 # Hey 👋, I am Wen LonG!
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/teo-wen-long-19960316/ "><img src="https://img.shields.io/badge/-Teo%20Wen%20Long-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:teowenlong0316@gmail.com"><img src="https://img.shields.io/badge/-teowenlong0316@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/12261890/teo"><img src="https://img.shields.io/badge/-@TeoWenLong-1877F2?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://www.freelancer.com/u/skynight1996"><img src="https://img.shields.io/badge/-@skynight1996-BD081C?style=flat&logo=Freelancer&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~0147258256e4f9731b"><img src="https://img.shields.io/badge/-@TeoWenLong-00B300?style=flat&logo=Upwork&logoColor=white"/></a>
+<a href="https://skynight1996.medium.com/"><img src="https://img.shields.io/badge/-@Teo-000000?style=flat&logo=Medium&logoColor=white"/></a>
+</p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  align="right" width = 200/>
                                                                                               
 🚀&nbsp;&nbsp;**Mobile Application Developer**  from Malaysia. Currently working in 💡 [Qumon Intelligence](https://www.qumonintelligence.com/) 💡. \
-🌱&nbsp;&nbsp;Actively working with **Android development** with **Kotlin**. \
+🌱&nbsp;&nbsp;Actively working with **Android development** with **Kotlin** & **Hybrid App Development** with **React Native** & **Redux**. \
 :muscle:&nbsp;&nbsp;Love to absorb any new technology in the market, such as **Jetpack Compose**, **Flutter**, etc. \
 🎓&nbsp;&nbsp;Graduated in **University Technology Malaysia** in **Bachelor of Degree in Computer Network and Security**.\
 📄&nbsp;&nbsp;Feel free to contact me in [**Freelancer**](https://www.freelancer.com/u/skynight1996) / [**Upwork**](https://www.upwork.com/freelancers/~0147258256e4f9731b) / [**Fiverr**](https://www.fiverr.com/teowenlong) for freelancing mobile development job. \
 💬&nbsp;&nbsp;Reach out to me for any problem faced in Android development. **I'm open to feedback and suggestions**! \
-📫&nbsp;&nbsp;I am also a technical writer at **Medium**!
+📫&nbsp;&nbsp;I am also a technical writer at [**Medium**](https://skynight1996.medium.com/)!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -20,9 +31,10 @@
 ### ⚡ &nbsp; Major Project
 
 * **Chativo** - Live Chat base support & Engagement software. :moneybag: \
-<a href='https://play.google.com/store/apps/details?id=io.chativo.chat&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 200/></a>
+<a href='https://play.google.com/store/apps/details?id=io.chativo.chat&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250 height=100/></a>
 * **Chativo Visitor** - Visitor Companion App built with React Native. :moneybag: \
-<a href='https://play.google.com/store/apps/details?id=com.rnvisitorapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width = 200/></a>
+<a href='https://play.google.com/store/apps/details?id=com.rnvisitorapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250 height=100/></a>
+<a href="https://apps.apple.com/us/app/chativov/id1595519177?itsct=apps_box_badge&amp;itscg=30200"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1638230400&h=5e365ba6b8b5c634c223f9a9e3bff004" alt="Download on the App Store" width=200 height=100></a>
 
 ### 🔥 &nbsp;Medium Articles 
   - [React Native — Infinite Scroll Pagination with FlatList](https://skynight1996.medium.com/react-native-infinite-scroll-pagination-with-flatlist-e5fe5db6c1cb)
@@ -40,14 +52,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenLonG12345)](https://github.com/WenLonG12345)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WenLonG12345&layout=compact)](https://github.com/WenLonG12345)
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/teo-wen-long-19960316/ "><img src="https://img.shields.io/badge/-Teo%20Wen%20Long-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:teowenlong0316@gmail.com"><img src="https://img.shields.io/badge/-teowenlong0316@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/12261890/teo"><img src="https://img.shields.io/badge/-@TeoWenLong-1877F2?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="https://www.freelancer.com/u/skynight1996"><img src="https://img.shields.io/badge/-@skynight1996-BD081C?style=flat&logo=Freelancer&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~0147258256e4f9731b"><img src="https://img.shields.io/badge/-@TeoWenLong-00B300?style=flat&logo=Upwork&logoColor=white"/></a>
-<a href="https://skynight1996.medium.com/"><img src="https://img.shields.io/badge/-@Teo-000000?style=flat&logo=Medium&logoColor=white"/></a>
-</p>
 
