@@ -33,7 +33,7 @@
 * **Chativo** - Live Chat base support & Engagement software. :moneybag: \
 <a href='https://play.google.com/store/apps/details?id=io.chativo.chat&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250 height=100/></a>
 * **Chativo Visitor** - Visitor Companion App built with React Native. :moneybag: \
-<a href='https://play.google.com/store/apps/details?id=com.rnvisitorapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250 height=100/></a>
+<a href='https://play.google.com/store/apps/details?id=io.chativo.visitor'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=250 height=100/></a>
 <a href="https://apps.apple.com/us/app/chativov/id1595519177?itsct=apps_box_badge&amp;itscg=30200"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1638230400&h=5e365ba6b8b5c634c223f9a9e3bff004" alt="Download on the App Store" width=200 height=100></a>
 
 ### 🔥 &nbsp;Medium Articles 
