@@ -3,6 +3,8 @@
 ### My Personal Website 
 [Teo's Website](https://teo-nextjs-portfolio.vercel.app/) ✈️
 
+![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png)
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
