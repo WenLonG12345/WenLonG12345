@@ -1,7 +1,7 @@
 # Hey 👋, I am Wen LonG!
 
 ### My Personal Website 
-[Teo's Website](https://teo-nextjs-portfolio.vercel.app/) ✈️
+[Teo's Website](https://www.teowenlong.com/) ✈️
 
 ![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png)
 
