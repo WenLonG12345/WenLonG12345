@@ -18,7 +18,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  align="right" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"  align="right" width=300 height=300/>
                                                                                               
 🚀&nbsp;&nbsp;**Mobile Application Developer**  from Malaysia. Currently working in 💡 [Qumon Intelligence](https://www.qumonintelligence.com/) 💡. \
 🌱&nbsp;&nbsp;Actively working with **Android development** with **Kotlin** & **Hybrid App Development** with **React Native** & **Redux**. \
