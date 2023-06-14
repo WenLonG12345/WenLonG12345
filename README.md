@@ -7,7 +7,7 @@
 
 [![Web](https://skillicons.dev/icons?i=react,js,ts,nextjs,redux,scss,tailwind,androidstudio,kotlin,java,figma)](https://skillicons.dev)
 
-### My Personal Website [Link](https://www.teowenlong.com/) ✈️
+### My Personal Website [Link](https://teowenlong.wannadev.xyz/) ✈️
 
 ![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png)
 
