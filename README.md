@@ -9,7 +9,7 @@
 
 ### My Personal Website [Link](https://teowenlong.com/) ✈️
 
-![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-2uU72sPPaDbziw-U2rhfg.png)
+![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png)
 
 ### 👨🏻‍💻 &nbsp;Connect with Me
 
